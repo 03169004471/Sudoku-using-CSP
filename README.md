@@ -1,6 +1,6 @@
 # Sudoku-using-CSP
 AI base game sudoku using CSP concepts 
-# GitHub Project Description: Sudoku Game using Constraint Satisfaction Problem (CSP)
+# Sudoku Game using Constraint Satisfaction Problem (CSP)
 
 ## Overview
 
