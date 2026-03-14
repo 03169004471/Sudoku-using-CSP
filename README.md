@@ -4,7 +4,7 @@ AI base game sudoku using CSP concepts
 
 ## Overview
 
-This GitHub project presents an interactive Sudoku game, implemented using Python's Tkinter library and the Constraint Satisfaction Problem (CSP) approach. It offers a visually appealing and user-friendly interface for playing Sudoku, a popular puzzle game. The project is titled "Group 15 Project - Sudoku 9x9" and features a black-themed GUI with colorful accents, contributing to an engaging user experience.
+This GitHub project presents an interactive Sudoku game, implemented using Python's Tkinter library and the Constraint Satisfaction Problem (CSP) approach. It offers a visually appealing and user-friendly interface for playing Sudoku, a popular puzzle game. The project is titled "Sudoku 9x9" and features a black-themed GUI with colorful accents, contributing to an engaging user experience.
 
 ## Features
 
